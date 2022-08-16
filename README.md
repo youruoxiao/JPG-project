@@ -8,6 +8,7 @@ JPG 是一个在全平台下运行，为所有能显示JPG—rom的设备进行�
 这个项目的英文全称为Jailbreak Permissions Grab——中文越狱权限夺取
 
 ----
+**[English](README_en.md)**  
 
 ## 声明
 
