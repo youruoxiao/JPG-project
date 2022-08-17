@@ -1,1 +1,1 @@
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img1.imgtp.com/2022/08/17/MxFpRAtI.png)](https://www.bilibili.com/video/BV1zU4y1D7HT)
