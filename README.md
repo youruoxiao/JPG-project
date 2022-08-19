@@ -1,4 +1,4 @@
-# JPG-project
+Ki# JPG-project
 <div align="center">
    <img width="160" src="https://s3.bmp.ovh/imgs/2022/08/16/083b324bfbca2000.jpg" alt="logo"></br>
 
@@ -46,8 +46,10 @@ JPG 是一个在全平台下运行，为所有能显示JPG—rom的设备进行�
 
 ----
 
-####如何刷入JPG-ROM
+#### 如何刷入JPG-ROM
 
-1.准备你想要刷入JPG-ROM的设备
-2.接收其他JPG-User的JPG-ROM
-3.刷入
+- 1.准备你想要刷入JPG-ROM的设备
+- 2.接收其他JPG-User的JPG-ROM
+- 3.刷入
+[![JPG支持任何可以显示JPG-ROM的设备，当然包括无线特效充电桌](https://s1.328888.xyz/2022/08/19/B6M2U.md.jpg)](https://imgloc.com/i/B6M2U)
+[![刷入成功！](https://s1.328888.xyz/202)](https://imgloc.com/i/B6PrB)
