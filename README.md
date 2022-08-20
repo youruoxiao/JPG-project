@@ -3,7 +3,7 @@ Ki# JPG-project
    <img width="160" src="https://s3.bmp.ovh/imgs/2022/08/16/083b324bfbca2000.jpg" alt="logo"></br>
 
 ----
-JPG 是一个在全平台下运行，为所有能显示JPG—rom的设备进行系统更改的刷机方式
+JPG 是一个在全平台下运行，为所有能显示JPG—rom的设备进行系统更改并催生出4396个诺贝尔奖得主的刷机方式
 
 这个项目的英文全称为Jailbreak Permissions Grab——中文越狱权限夺取
 
